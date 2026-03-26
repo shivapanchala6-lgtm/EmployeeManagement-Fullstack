@@ -26,23 +26,23 @@ jobs:
       run: dotnet build ./Backend/EmployeeManagement.API --no-restore
 
   build-frontend:
-  runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
-  steps:
-  - name: Checkout Code
-    uses: actions/checkout@v3
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
 
-  - name: Setup Node
-    uses: actions/setup-node@v3
-    with:
-      node-version: '20'
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
 
-  - name: Install Dependencies
-    run: |
-      cd Frontend/employee-ui
-      npm install
+    - name: Install Dependencies
+      run: |
+        cd Frontend/employee-ui
+        npm install
 
-  - name: Build Angular App
-    run: |
-      cd Frontend/employee-ui
-      npm run build
+    - name: Build Angular App
+      run: |
+        cd Frontend/employee-ui
+        npm run build
