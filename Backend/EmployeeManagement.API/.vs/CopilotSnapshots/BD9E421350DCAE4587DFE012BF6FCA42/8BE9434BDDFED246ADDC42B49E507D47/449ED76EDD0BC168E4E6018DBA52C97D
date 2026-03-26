@@ -1,0 +1,31 @@
+﻿using EmployeeManagement.API.Data;
+using EmployeeManagement.API.Repository.Implementations;
+using EmployeeManagement.API.Repository.Interfaces;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+// Dependency Injection
+builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+//builder.Services.AddScoped<DbContext>();
+builder.Services.AddDbContext<EmployeeContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+var app = builder.Build();
+
+// Swagger
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();

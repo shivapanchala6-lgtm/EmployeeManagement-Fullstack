@@ -1,0 +1,28 @@
+<h2>Employee Management</h2>
+
+<div style="margin-bottom: 20px;">
+  <input [(ngModel)]="newEmployee.name" placeholder="Name">
+  <input [(ngModel)]="newEmployee.email" placeholder="Email">
+  <input [(ngModel)]="newEmployee.department" placeholder="Department">
+  <button (click)="addEmployee()">Add</button>
+</div>
+
+<table border="1" width="100%">
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Email</th>
+    <th>Department</th>
+    <th>Action</th>
+  </tr>
+
+  <tr *ngFor="let emp of employees">
+    <td>{{ emp.id }}</td>
+    <td>{{ emp.name }}</td>
+    <td>{{ emp.email }}</td>
+    <td>{{ emp.department }}</td>
+    <td>
+      <button (click)="deleteEmployee(emp.id!)">Delete</button>
+    </td>
+  </tr>
+</table>

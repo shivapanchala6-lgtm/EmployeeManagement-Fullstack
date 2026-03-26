@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=.;Database=EmployeeDB;Trusted_Connection=True;"
+  }
+}

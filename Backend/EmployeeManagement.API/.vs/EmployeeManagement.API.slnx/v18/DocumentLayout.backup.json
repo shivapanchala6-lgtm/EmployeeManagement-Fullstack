@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\EmployeeManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|c:\\project\\employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|c:\\project\\employeemanagement.api\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|c:\\project\\employeemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|c:\\project\\employeemanagement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|c:\\project\\employeemanagement.api\\repository\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|solutionrelative:repository\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|c:\\project\\employeemanagement.api\\repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|solutionrelative:repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|c:\\project\\employeemanagement.api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|solutionrelative:dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|c:\\project\\employeemanagement.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ED6DA-5106-01CB-7D6C-D76E9C11AFD4}|EmployeeManagement.API.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project\\EmployeeManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\project\\EmployeeManagement.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T03:40:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\project\\EmployeeManagement.API\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\project\\EmployeeManagement.API\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:40:10.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\project\\EmployeeManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\project\\EmployeeManagement.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T02:39:51.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\project\\EmployeeManagement.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\project\\EmployeeManagement.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:38:16.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\project\\EmployeeManagement.API\\Repository\\Implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\EmployeeRepository.cs",
+              "ToolTip": "C:\\project\\EmployeeManagement.API\\Repository\\Implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\EmployeeRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA9wBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:37:35.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\project\\EmployeeManagement.API\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\project\\EmployeeManagement.API\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:37:07.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\project\\EmployeeManagement.API\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\project\\EmployeeManagement.API\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:36:48.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\project\\EmployeeManagement.API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\project\\EmployeeManagement.API\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:36:19.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
